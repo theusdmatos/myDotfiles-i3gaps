@@ -1,5 +1,5 @@
 # myDotfiles-i3gaps
-Shell script for configuring i3-gaps on clean install of Arc Linux.
+Shell script for configuring i3-gaps on clean install of Arch Linux.
 
 # Install on Arch Linux/Manjaro
 

@@ -4,6 +4,7 @@ Shell script for configuring i3-gaps on clean install of Arc Linux.
 # Install on Arch Linux/Manjaro
 
 Move the file "config" to .config/i3/config
+#
 Move the file "i3status.config" to /etc/ 
 
 sudo pacman -S "package"

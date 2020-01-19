@@ -8,6 +8,7 @@ Move the file "config" to .config/i3/config
 Move the file "i3status.config" to /etc/ 
 #
 sudo pacman -S "package"
+- ttf-font-awesome
 - i3gaps or i3wm 
 - i3status
 
